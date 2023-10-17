@@ -17,8 +17,8 @@ Open index.html in your web browser.
 Explore real-time weather information!
 
 # Screenshots
-[<img width="758" alt="image" src="https://github.com/Tobi-joshua/Weather_Wise_App/assets/62856830/ac6c173f-b074-4b40-8bd4-2db066d44062">
-]
+<img width="758" alt="image" src="https://github.com/Tobi-joshua/Weather_Wise_App/assets/62856830/ac6c173f-b074-4b40-8bd4-2db066d44062">
+
 
 # Contributing
 Contributions are welcome! Feel free to open issues and submit pull requests.
